@@ -6,6 +6,7 @@ public class testthroughdeskgit {
 		// TODO Auto-generated method stub
 		System.out.println("3332dcsd");
 		System.out.println("123 test");
+		System.out.println("halal jiii");
 	}
 
 }
